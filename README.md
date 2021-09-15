@@ -1,2 +1,2 @@
 # Pandas-Cars
-Early pandas learning analysis of vehicles production data
+Early pandas learning, analysis of vehicles production data
